@@ -14,8 +14,6 @@ public class Exercicio8 {
 
         int numVotos, numBrancos, numNulos, numValidos ;
 
-
-
         System.out.println("\nEscreva a Quantidade de Votos Nulos: ");
         numNulos = sc.nextInt();
 

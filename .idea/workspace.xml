@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicio feito em sala de aula">
+    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicio feito em casa 10 e começo do 11">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Execicio9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio8.java" afterDir="false" />
     </list>
@@ -20,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -37,9 +44,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio8">
-    <configuration name="Exercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio5" />
+  <component name="RunManager" selected="Application.Execicio9">
+    <configuration name="Execicio9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Execicio9" />
+      <module name="exercicios5-13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio10" />
       <module name="exercicios5-13" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,10 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Execicio9" />
+        <item itemvalue="Application.Exercicio10" />
         <item itemvalue="Application.Exercicio8" />
         <item itemvalue="Application.Exercicio7" />
         <item itemvalue="Application.Exercicio6" />
-        <item itemvalue="Application.Exercicio5" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650936871759</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="subindo exercicio feito em sala casa 8">
+      <created>1651002604949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651002604949</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +129,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="subindo exercicio feito em sala de aula" />
-    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicio feito em sala de aula" />
+    <MESSAGE value="subindo exercicio feito em sala casa 8" />
+    <MESSAGE value="subindo exercicio feito em casa 10 e começo do 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicio feito em casa 10 e começo do 11" />
   </component>
 </project>
