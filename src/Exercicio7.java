@@ -7,15 +7,17 @@ import java.util.Scanner;
 public class Exercicio7 {
     public static void main(String[] args) {
 
+
+        int idade, dias, mes;
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite sua idade: ");
-        int idade = sc.nextInt();
-        int anos = 365*idade;
-        int mes = 12;
+        idade = sc.nextInt();
+        mes = 12*idade;
+        dias = 365*idade;
 
         System.out.println("Sua idade é: " + idade);
-        System.out.println("\nSua idade em Meses é: " + idade * mes);
-        System.out.println("\nSua idade em Dias é: " + anos);
+        System.out.println("\nSua idade em Meses é: " + mes);
+        System.out.println("\nSua idade em Dias é: " + dias);
 
 
 

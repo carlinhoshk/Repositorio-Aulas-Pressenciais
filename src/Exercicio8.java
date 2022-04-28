@@ -12,7 +12,7 @@ public class Exercicio8 {
 
         Scanner sc = new Scanner(System.in);
 
-        int numVotos, numBrancos, numNulos, numValidos ;
+        int numBrancos, numNulos, numValidos, total ;
 
         System.out.println("\nEscreva a Quantidade de Votos Nulos: ");
         numNulos = sc.nextInt();
@@ -23,7 +23,7 @@ public class Exercicio8 {
         System.out.println("Escreva a Quantidade de Votos Validos: ");
         numValidos = sc.nextInt();
 
-        int total = numNulos + numValidos + numBrancos;
+        total = numNulos + numValidos + numBrancos;
 
         System.out.println("A Porcetagem de Votos Nulos é: " + (100*numNulos)/total + "%");
         System.out.println("A Porcetagem de Votos Validos é: " + (100*numValidos)/total + "%");
