@@ -10,8 +10,9 @@ import java.util.Scanner;
 public class Exercicio11 {
     public static void main(String[] args) {
 
-        int salario, comissao, carrosVendidos, total;
+        Scanner sc = new Scanner(System.in);
 
+        int salario, comissao, carrosVendidos, total;
 
 
 

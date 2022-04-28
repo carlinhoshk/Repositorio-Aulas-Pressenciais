@@ -12,26 +12,22 @@ public class Exercicio8 {
 
         Scanner sc = new Scanner(System.in);
 
-        int numBrancos, numNulos, numValidos, total ;
+        double numBrancos, numNulos, numValidos, total ;
 
         System.out.println("\nEscreva a Quantidade de Votos Nulos: ");
-        numNulos = sc.nextInt();
+        numNulos = sc.nextDouble();
 
         System.out.println("Escreva a Quantidade de Votos Brancos: ");
-        numBrancos = sc.nextInt();
+        numBrancos = sc.nextDouble();
 
         System.out.println("Escreva a Quantidade de Votos Validos: ");
-        numValidos = sc.nextInt();
+        numValidos = sc.nextDouble();
 
         total = numNulos + numValidos + numBrancos;
 
         System.out.println("A Porcetagem de Votos Nulos é: " + (100*numNulos)/total + "%");
         System.out.println("A Porcetagem de Votos Validos é: " + (100*numValidos)/total + "%");
         System.out.println("A Porcetagem de Votos Brancos é: " + (100*numBrancos)/total + "%");
-
-
-
-        //percentual =
 
     }
 }
