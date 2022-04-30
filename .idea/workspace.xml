@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo mudanças em sala de aula 27/04">
+      <change afterPath="$PROJECT_DIR$/src/Exercicio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2022_19_22__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2022_19_22__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repositorio-Aulas-Pressenciais/src/Exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repositorio-Aulas-Pressenciais/src/Exercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repositorio-Aulas-Pressenciais/src/Exercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repositorio-Aulas-Pressenciais/src/Exercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,37 +36,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/carlos.oliveira1/Documents",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
-  <component name="RunManager" selected="Application.Exercicio8">
-    <configuration name="Exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio6" />
+}]]></component>
+  <component name="RunManager" selected="Application.Exercicio16">
+    <configuration name="Exercicio14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio14" />
       <module name="exercicios5-13" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio6_1" />
+    <configuration name="Exercicio15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio15" />
       <module name="exercicios5-13" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio6_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio6_2" />
+    <configuration name="Exercicio16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio16" />
       <module name="exercicios5-13" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio7" />
+    <configuration name="Exercicio17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio17" />
       <module name="exercicios5-13" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio16" />
+        <item itemvalue="Application.Exercicio17" />
+        <item itemvalue="Application.Exercicio15" />
+        <item itemvalue="Application.Exercicio14" />
         <item itemvalue="Application.Exercicio8" />
-        <item itemvalue="Application.Exercicio7" />
-        <item itemvalue="Application.Exercicio6_2" />
-        <item itemvalue="Application.Exercicio6_1" />
-        <item itemvalue="Application.Exercicio6" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +129,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Repositorio-Aulas-Pressenciais" />
+      <path value="$USER_HOME$/Documents" />
+    </ignored-roots>
     <MESSAGE value="subindo exercicio feito em sala de aula" />
     <MESSAGE value="subindo mudanças em sala de aula 27/04" />
     <option name="LAST_COMMIT_MESSAGE" value="subindo mudanças em sala de aula 27/04" />
