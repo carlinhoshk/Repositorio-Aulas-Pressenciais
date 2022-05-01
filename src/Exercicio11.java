@@ -7,12 +7,24 @@
 //vendedor.
 import java.util.Scanner;
 
+import java.util.Scanner;
+
 public class Exercicio11 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
         int salario, comissao, carrosVendidos, total;
+
+        int percentualDistri, imposto, entrada;
+
+        System.out.println("Digite a Quantidade Carro Vendidos pelo Funcionario: ");
+        entrada = sc.nextInt();
+
+        percentualDistri = (100 * entrada) /  28;
+        imposto = (100 * entrada) / 45;
+        total = entrada + percentualDistri + imposto;
+        System.out.println("O Custo final desse carro vai ser: " + total + "R$");
 
 
 

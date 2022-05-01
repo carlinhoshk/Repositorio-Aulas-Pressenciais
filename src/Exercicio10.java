@@ -21,9 +21,5 @@ public class Exercicio10 {
         total = entrada + percentualDistri + imposto;
         System.out.println("O Custo final desse carro vai ser: " + total + "R$");
 
-
-
-
-
     }
 }
