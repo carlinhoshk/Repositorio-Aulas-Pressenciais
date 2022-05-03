@@ -3,7 +3,6 @@
 
 package estruturaCase;
 
-
 import java.util.Scanner;
 
 public class ExercicioCaseMes {
