@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicio feito em aula 02/05">
+      <change afterPath="$PROJECT_DIR$/src/Exercicio32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturaCase/ExercicioCaseMes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturaCase/ExercicioCaseMes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExercicioCaseMes">
-    <configuration name="Exercicio27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio27" />
-      <module name="exercicios5-13" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio32">
     <configuration name="Exercicio28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio28" />
       <module name="exercicios5-13" />
@@ -72,6 +66,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio32" />
+      <module name="exercicios5-13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExercicioCaseMes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estruturaCase.ExercicioCaseMes" />
       <module name="exercicios5-13" />
@@ -87,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio32" />
         <item itemvalue="Application.ExercicioCaseMes" />
         <item itemvalue="Application.Exercicio30" />
         <item itemvalue="Application.Exercicio29" />
         <item itemvalue="Application.Exercicio28" />
-        <item itemvalue="Application.Exercicio27" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651540090126</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="subindo exercicio feito em aula 02/05">
+      <created>1651541699916</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651541699916</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
