@@ -14,10 +14,10 @@ public class Exercicio4 {
         int resto = 2;
 
         while(i <=20 ){
-            i++;
+
             if ((i % resto == 1)){
                 System.out.println(i);
-            }
+            }i++;
         }
     }
 }

@@ -18,8 +18,5 @@ public class Exercicio1 {
             System.out.println(entrada + "X" + i + "=" + i*entrada );
             i++;
         }
-
-
-
     }
 }
