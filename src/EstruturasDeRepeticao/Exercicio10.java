@@ -7,19 +7,17 @@ package EstruturasDeRepeticao;
 public class Exercicio10 {
     public static void main(String[] args) {
 
-        int i = 50, soma, mediaAri, resto=2;
+        int i = 50, soma =0, mediaAri =0, resto=2;
 
         while (i <= 70){
-            i++;
+
             if (i % resto == 0){
-                i++;
-                soma = i++;
-                mediaAri = i++ / 70;
-                System.out.println("soma: " + soma);
-                System.out.println("media Aritimética: " + mediaAri);
+                soma += i;
+                mediaAri += soma / i;
             }
-
+            i++;
         }
-
+        System.out.println("soma: " + soma);
+        System.out.println("media Aritimética: " + mediaAri);
     }
 }

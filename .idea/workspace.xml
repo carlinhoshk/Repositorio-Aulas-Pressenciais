@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicio feito em aula 06/05">
-      <change afterPath="$PROJECT_DIR$/src/EstruturasDeRepeticao/Exercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasDeRepeticao/Exercicio11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasDeRepeticao/Exercicio12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasDeRepeticao/Exercicio9.java" afterDir="false" />
+    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="arrumando exercicio 4 do while">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EstruturasDeRepeticao/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturasDeRepeticao/Exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturasDeRepeticao/Exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturasDeRepeticao/Exercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturasDeRepeticao/Exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturasDeRepeticao/Exercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturasDeRepeticao/Exercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturasDeRepeticao/Exercicio12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,7 @@
       <recent name="C:\Users\carlos.oliveira1\IdeaProjects\Repositorio-Aulas-Pressenciais\src\EstruturasDeRepeticao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio4">
+  <component name="RunManager" selected="Application.Exercicio10">
     <configuration name="Exercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.Exercicio10" />
       <module name="exercicios5-13" />
@@ -122,9 +119,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio10" />
         <item itemvalue="Application.Exercicio4" />
         <item itemvalue="Application.Exercicio12" />
-        <item itemvalue="Application.Exercicio10" />
         <item itemvalue="Application.Exercicio9" />
         <item itemvalue="Application.Exercicio8" />
       </list>
@@ -181,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651887055616</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="arrumando exercicio 4 do while">
+      <created>1652142817135</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652142817135</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +209,7 @@
     <MESSAGE value="exercicio em aula até o 17" />
     <MESSAGE value="subindo exercicio feito em aula 02/05" />
     <MESSAGE value="subindo exercicio feito em aula 06/05" />
-    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicio feito em aula 06/05" />
+    <MESSAGE value="arrumando exercicio 4 do while" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrumando exercicio 4 do while" />
   </component>
 </project>
