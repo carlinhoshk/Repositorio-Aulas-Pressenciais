@@ -6,14 +6,13 @@ package EstruturaDoWhile;
 public class Exercicio5 {
     public static void main(String[] args) {
 
-        int i=0, x=1, f=0;
-
+        int i=0, x=0, f=1, contador=0, soma=0;
         do {
-
-            System.out.println(f);
-            x++;
-        } while(x <=15);
-
+            f += f*contador;
+            contador++;
+            soma += contador;
+        }while (contador <=15);
+        System.out.println("o Total do somtario da fatorial é: " + soma);
 
     }
 }

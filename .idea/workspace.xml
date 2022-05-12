@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicios na aula">
-      <change afterPath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio5.java" afterDir="false" />
+    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicios na aula 11/05">
+      <change afterPath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,33 +51,7 @@
       <recent name="C:\Users\carlos.oliveira1\IdeaProjects\Repositorio-Aulas-Pressenciais\src\EstruturasDeRepeticao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio5">
-    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturaDoWhile.Exercicio1" />
-      <module name="exercicios5-13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EstruturaDoWhile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.Exercicio10" />
-      <module name="exercicios5-13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EstruturasDeRepeticao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio7">
     <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EstruturaDoWhile.Exercicio2" />
       <module name="exercicios5-13" />
@@ -119,13 +91,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturaDoWhile.Exercicio6" />
+      <module name="exercicios5-13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstruturaDoWhile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturaDoWhile.Exercicio7" />
+      <module name="exercicios5-13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstruturaDoWhile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio7" />
         <item itemvalue="Application.Exercicio5" />
+        <item itemvalue="Application.Exercicio6" />
         <item itemvalue="Application.Exercicio3" />
         <item itemvalue="Application.Exercicio2" />
-        <item itemvalue="Application.Exercicio1" />
-        <item itemvalue="Application.Exercicio10" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652146742906</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="subindo exercicios na aula 11/05">
+      <created>1652315126149</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652315126149</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +225,7 @@
     <MESSAGE value="subindo exercicio feito em aula 06/05" />
     <MESSAGE value="arrumando exercicio 4 do while" />
     <MESSAGE value="subindo exercicios na aula" />
-    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicios na aula" />
+    <MESSAGE value="subindo exercicios na aula 11/05" />
+    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicios na aula 11/05" />
   </component>
 </project>
