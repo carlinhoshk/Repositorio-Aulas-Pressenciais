@@ -9,14 +9,11 @@ public class Exercicio2 {
         int a=1, soma=0;
 
         do {
-            a++;
             if (a % 2 ==0){
                 soma += a;
-
             }
-
+            a++;
         }while(a <= 500);
         System.out.println("A soma é: " + soma);
-
     }
 }
