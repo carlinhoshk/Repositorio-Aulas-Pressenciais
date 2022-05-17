@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicios na aula 11/05">
-      <change afterPath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio9.java" afterDir="false" />
+    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo PDF 16/05">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturaDoWhile/Exercicio6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 - raciocínio lógico 1.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -211,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652319501556</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="subindo PDF 16/05">
+      <created>1652741034107</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1652741034107</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,6 +230,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/Repositorio-Aulas-Pressenciais" />
       <path value="$USER_HOME$/Documents" />
@@ -238,6 +243,7 @@
     <MESSAGE value="arrumando exercicio 4 do while" />
     <MESSAGE value="subindo exercicios na aula" />
     <MESSAGE value="subindo exercicios na aula 11/05" />
-    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicios na aula 11/05" />
+    <MESSAGE value="subindo PDF 16/05" />
+    <option name="LAST_COMMIT_MESSAGE" value="subindo PDF 16/05" />
   </component>
 </project>
