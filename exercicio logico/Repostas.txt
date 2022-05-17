@@ -1,0 +1,91 @@
+Aluno : Carlos andré mendes de oliveira
+Data : 16/05/2022
+
+
+Questões
+
+1. (Resposta 12)
+
+2. (Resposta 8)
+
+3. (Resposta 2)
+
+4. (Resposta não enterra ngm)
+
+5. ( Resposta 6 )
+
+6. (Resposta 23 )
+
+7. (Resposta 49 )
+
+8. ( Resposta 26 )
+
+9. ( Resposta 22,5)
+
+cabeca = 9
+cauda = 9 + metadecorpo = (13,5)
+corpo = 9 + cauda  =  (22,5)
+
+10. ( Reposta 20 % )
+
+11. (Resposta sim em 11 minutos )
+
+a = 1
+b = 2
+c = 5
+d = 8
+2 = 8
+
+d + c = 8 / a foi + b foi = total 11
+
+
+12. ( Resposta Tres viagens. Uma com 2 CA depois 1 CA e 1 JE e ultima com 2 JE )
+
+Je = 3
+Ca = 3
+
+barco = 2
+
+2 ca primeiro/ 1 ca 1 je / 2 je
+
+13.
+
+Hastes = 3
+
+Haste = A
+Haste = B
+HAste = C
+
+pequeno = 1
+medio = 2
+grande = 3
+
+(Resposta 13) Primeiro transferir disco pequeno para HAste-C depois transferir disco Médio para haste-b
+Depois transferir disco grande para haste B. Tirar o disco pequeno da haste C para haste A,
+Pegar disco grande da haste B e colocar na haste C, pegar o disco médio da HAste B e colocar na
+Haste C, e pegar o disco pequeno da Haste A para a Haste C.
+
+14. (
+
+pessoas = 8 [Pai, mãe, filhoUm, filhoDois, FilhaUm, FilhaDois, Policial, Prisioneiro]
+
+1. Somente pai,mae e policial sabem pilotar barco
+2. mãe não pode ficar sozinha com os filhos
+3. pai não pode ficar soziho com filhas
+4. prisoneiro nao pode ficar sozinho com ngm da familia
+5. barco só pode transporta 2 pessoas por vez
+6. voce pode ir e vir com as pessoas quantas vezes precisar
+
+( Resposta )Pai pega filhoUm leva, volta pega filho dois. Mãe pega filhaUm leva, pega filhaDois leva.
+Mae pega pai leva, mae volta fica, policial pega prisioneiro leva, volta e mae e policial voltam.
+
+15.
+
+Vermelho = ingles
+Verde = fica a esquerda da casa branca e o dono bebe café
+amarela = o dono come salada
+azul = tem o noruegues vive ao lado,
+branca =
+
+16.
+
