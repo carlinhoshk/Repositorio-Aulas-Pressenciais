@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicios 16/05">
-      <change afterPath="$PROJECT_DIR$/src/EstruturaFor/ExercicioA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaFor/ExercicioB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaFor/ExercicioC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaFor/ExercicioD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaFor/ExercicioE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaFor/ExercicioF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaFor/ExercicioG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaFor/ExercicioH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaFor/ExercicioK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaFor/ForEach.txt" afterDir="false" />
+    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicios feito em sala 18/05">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaFor/ExercicioH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturaFor/ExercicioH.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652751255839</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="subindo exercicios feito em sala 18/05">
+      <created>1652924258001</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1652924258001</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,6 +266,7 @@
     <MESSAGE value="subindo exercicios na aula 11/05" />
     <MESSAGE value="subindo PDF 16/05" />
     <MESSAGE value="subindo exercicios 16/05" />
-    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicios 16/05" />
+    <MESSAGE value="subindo exercicios feito em sala 18/05" />
+    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicios feito em sala 18/05" />
   </component>
 </project>
