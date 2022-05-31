@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicios feito em sala 18/05">
+    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicios feito em sala 20/05 :memo: &#10;:white_check_mark:">
+      <change afterPath="$PROJECT_DIR$/exerc_resp_prog1_ago2006.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaFor/ExercicioH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturaFor/ExercicioH.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +59,13 @@
       <recent name="C:\Users\carlos.oliveira1\IdeaProjects\Repositorio-Aulas-Pressenciais\src\EstruturasDeRepeticao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExercicioK">
-    <configuration name="ExercicioC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturaFor.ExercicioC" />
+  <component name="RunManager" selected="Application.Exercicio6">
+    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VetorEArray.Exercicio1" />
       <module name="exercicios5-13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturaFor.*" />
+          <option name="PATTERN" value="VetorEArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturaFor.ExercicioD" />
+    <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VetorEArray.Exercicio2" />
       <module name="exercicios5-13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturaFor.*" />
+          <option name="PATTERN" value="VetorEArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturaFor.ExercicioE" />
+    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VetorEArray.Exercicio3" />
       <module name="exercicios5-13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturaFor.*" />
+          <option name="PATTERN" value="VetorEArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturaFor.ExercicioF" />
+    <configuration name="Exercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VetorEArray.Exercicio5" />
       <module name="exercicios5-13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturaFor.*" />
+          <option name="PATTERN" value="VetorEArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturaFor.ExercicioK" />
+    <configuration name="Exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VetorEArray.Exercicio6" />
       <module name="exercicios5-13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturaFor.*" />
+          <option name="PATTERN" value="VetorEArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExercicioK" />
-        <item itemvalue="Application.ExercicioF" />
-        <item itemvalue="Application.ExercicioE" />
-        <item itemvalue="Application.ExercicioD" />
-        <item itemvalue="Application.ExercicioC" />
+        <item itemvalue="Application.Exercicio6" />
+        <item itemvalue="Application.Exercicio5" />
+        <item itemvalue="Application.Exercicio3" />
+        <item itemvalue="Application.Exercicio2" />
+        <item itemvalue="Application.Exercicio1" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652924258001</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="subindo exercicios feito em sala 20/05 :memo: &#10;:white_check_mark:">
+      <created>1653095870639</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1653095870639</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +280,7 @@
     <MESSAGE value="subindo PDF 16/05" />
     <MESSAGE value="subindo exercicios 16/05" />
     <MESSAGE value="subindo exercicios feito em sala 18/05" />
-    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicios feito em sala 18/05" />
+    <MESSAGE value="subindo exercicios feito em sala 20/05 :memo: &#10;:white_check_mark:" />
+    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicios feito em sala 20/05 :memo: &#10;:white_check_mark:" />
   </component>
 </project>
