@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicios feito em sala 20/05 :memo: &#10;:white_check_mark:">
-      <change afterPath="$PROJECT_DIR$/exerc_resp_prog1_ago2006.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VetorEArray/Exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

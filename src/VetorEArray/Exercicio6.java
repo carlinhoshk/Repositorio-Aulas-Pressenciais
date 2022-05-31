@@ -6,12 +6,15 @@ package VetorEArray;
 public class Exercicio6 {
     public static void main(String[] args) {
 
-        int d[] = {1,2,3,4,5,6,7,8,9,10};
-        int[] e = new int[11];
+        int tamanhoArray = 10;
 
-        for ( int i =  d.length - 1 ; i >= 0 ; i--){
-            e= d[i];
-            System.out.println(d[i]);
+        int d[] = {1,2,3,4,5,6,7,8,9,10};
+        int[] e = new int[tamanhoArray];
+
+        for (int i = 0; i < tamanhoArray; i++){
+            e[i] = d[tamanhoArray -1 - i];
+
+            System.out.println("contrario: "+ e[i]);
         }
 
     }
