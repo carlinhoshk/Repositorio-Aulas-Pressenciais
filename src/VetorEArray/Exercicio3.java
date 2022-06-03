@@ -9,9 +9,11 @@ public class Exercicio3 {
 
         for (int i=0;i<=9;i++){
             if (i % 2 == 1){
-                b[i]=0;
-            }else{
+            // impar
                 b[i]=1;
+            }else{
+            // par
+                b[i]=0;
             }System.out.println("array: " + b[i]);
         }
 
