@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="Exercicio 6 de arrays/vetores feito em casa&#10; :memo: &#10;:white_check_mark:">
-      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio9.java" afterDir="false" />
+    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicios feito em sala 20/05 :memo: &#10;:white_check_mark:">
+      <change afterPath="$PROJECT_DIR$/src/Metodos/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodos/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodos/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodos/Exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodos/Exercicio5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VetorEArray/Exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VetorEArray/Exercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +41,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/carlos.oliveira1/IdeaProjects/Repositorio-Aulas-Pressenciais&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "azul-11",
+    "last_opened_file_path": "C:/Users/carlos.oliveira1/IdeaProjects/Repositorio-Aulas-Pressenciais",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\carlos.oliveira1\IdeaProjects\Repositorio-Aulas-Pressenciais" />
@@ -57,13 +61,13 @@
       <recent name="C:\Users\carlos.oliveira1\IdeaProjects\Repositorio-Aulas-Pressenciais\src\EstruturasDeRepeticao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio9">
-    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VetorEArray.Exercicio3" />
+  <component name="RunManager" selected="Application.Exercicio8">
+    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Metodos.Exercicio4" />
       <module name="exercicios5-13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="VetorEArray.*" />
+          <option name="PATTERN" value="Metodos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,19 +77,6 @@
     </configuration>
     <configuration name="Exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VetorEArray.Exercicio6" />
-      <module name="exercicios5-13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="VetorEArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VetorEArray.Exercicio7" />
       <module name="exercicios5-13" />
       <extension name="coverage">
         <pattern>
@@ -110,12 +101,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VetorEArray.Exercicio9" />
+    <configuration name="Metodos.Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Metodos.Exercicio2" />
       <module name="exercicios5-13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="VetorEArray.*" />
+          <option name="PATTERN" value="Metodos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Metodos.Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Metodos.Exercicio3" />
+      <module name="exercicios5-13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Metodos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio9" />
         <item itemvalue="Application.Exercicio8" />
-        <item itemvalue="Application.Exercicio7" />
-        <item itemvalue="Application.Exercicio3" />
+        <item itemvalue="Application.Exercicio4" />
         <item itemvalue="Application.Exercicio6" />
+        <item itemvalue="Application.Metodos.Exercicio3" />
+        <item itemvalue="Application.Metodos.Exercicio2" />
       </list>
     </recent_temporary>
   </component>
@@ -247,14 +251,7 @@
       <option name="project" value="LOCAL" />
       <updated>1653095870639</updated>
     </task>
-    <task id="LOCAL-00016" summary="Exercicio 6 de arrays/vetores feito em casa&#10; :memo: &#10;:white_check_mark:">
-      <created>1653977043561</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1653977043561</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,7 +283,6 @@
     <MESSAGE value="subindo exercicios 16/05" />
     <MESSAGE value="subindo exercicios feito em sala 18/05" />
     <MESSAGE value="subindo exercicios feito em sala 20/05 :memo: &#10;:white_check_mark:" />
-    <MESSAGE value="Exercicio 6 de arrays/vetores feito em casa&#10; :memo: &#10;:white_check_mark:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 6 de arrays/vetores feito em casa&#10; :memo: &#10;:white_check_mark:" />
+    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicios feito em sala 20/05 :memo: &#10;:white_check_mark:" />
   </component>
 </project>

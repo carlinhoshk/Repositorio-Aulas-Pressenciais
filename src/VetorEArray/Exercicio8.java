@@ -29,14 +29,9 @@ public class Exercicio8 {
             }
             if (quantidade > cont){
 
-
             }
 
         }
-
-
-
-
 
     }
 }

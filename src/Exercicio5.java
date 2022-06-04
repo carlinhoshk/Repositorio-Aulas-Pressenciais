@@ -16,8 +16,5 @@ public class Exercicio5 {
         System.out.println("O antessesor do seu numero é: " + (a-1));
         System.out.println("O antessesor do seu numero é: " + (a+1));
 
-
-
-
     }
 }
