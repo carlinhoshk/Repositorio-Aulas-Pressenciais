@@ -1,0 +1,36 @@
+21:20 - 06/06/2022
+Carlos andre mendes de oliveira
+
+2 objetos fisicos e 2 objetos abstratos
+
+1º garrafa de agua
+  Atributo - Agua, Garrafa, Tampa, Adesivo
+
+  Método - Beber, Jogar-Fora, pegar, soltar, arremessar
+
+  Estado - Aberta, Fechada, Cheia, Vazia, de pé, de ponta cabeça, deitada,
+
+2º Mouse
+   Atributo - Laiser, Botão, Plastico, fio
+
+   Método - Usar, movimentar, clicar, girar, apertar
+
+   Estado - Parado, Movientando, clicando
+
+Objetos abstratos
+
+1º Dor
+
+Atributo -
+
+Método -  chorar, motivar, irritar, quebrar
+
+Estado - Continuo, Temporario, Regularmente
+
+2º Sonho
+
+Atributo - Pensamentos, motivações, metas, vontades
+
+Método - Dormindo, Inspirado, viajando
+
+Estado - Dormindo, acordado

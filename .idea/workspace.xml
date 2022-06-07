@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicios feito em sala 20/05 :memo: &#10;:white_check_mark:">
-      <change afterPath="$PROJECT_DIR$/src/Metodos/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Metodos/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Metodos/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Metodos/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Metodos/Exercicio5.java" afterDir="false" />
+    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicios feito em sala 03/06 :memo: &#10;:white_check_mark:">
+      <change afterPath="$PROJECT_DIR$/src/POO/exercicio-objetos.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VetorEArray/Exercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VetorEArray/Exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +24,12 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Exercicio6_2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/POO/exercicio-objetos.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/VetorEArray/Exercicio10.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/VetorEArray/Exercicio5.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -41,17 +41,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "azul-11",
-    "last_opened_file_path": "C:/Users/carlos.oliveira1/IdeaProjects/Repositorio-Aulas-Pressenciais",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;azul-11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/carlos.oliveira1/IdeaProjects/Repositorio-Aulas-Pressenciais&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\carlos.oliveira1\IdeaProjects\Repositorio-Aulas-Pressenciais" />
@@ -251,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653095870639</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="subindo exercicios feito em sala 03/06 :memo: &#10;:white_check_mark:">
+      <created>1654306471555</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1654306471555</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,6 +290,7 @@
     <MESSAGE value="subindo exercicios 16/05" />
     <MESSAGE value="subindo exercicios feito em sala 18/05" />
     <MESSAGE value="subindo exercicios feito em sala 20/05 :memo: &#10;:white_check_mark:" />
-    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicios feito em sala 20/05 :memo: &#10;:white_check_mark:" />
+    <MESSAGE value="subindo exercicios feito em sala 03/06 :memo: &#10;:white_check_mark:" />
+    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicios feito em sala 03/06 :memo: &#10;:white_check_mark:" />
   </component>
 </project>

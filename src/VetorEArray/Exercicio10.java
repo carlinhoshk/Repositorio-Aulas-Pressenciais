@@ -6,5 +6,8 @@ package VetorEArray;
 public class Exercicio10 {
     public static void main(String[] args) {
 
+        double [] notas = {7.0, 8.0, 6.0, 10, 3.0, 5.0, 8.0, 9.0, 10, 7.0, 5.5};
+
+
     }
 }
