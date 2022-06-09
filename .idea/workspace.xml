@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicios feito em sala 03/06 :memo: &#10;:white_check_mark:">
-      <change afterPath="$PROJECT_DIR$/src/POO/exercicio-objetos.txt" afterDir="false" />
+    <list default="true" id="56c2a5a2-0c1a-40a4-bc8b-ed2a98db0647" name="Changes" comment="subindo exercicios feito em sala 06/06 :memo: &#10;:white_check_mark:">
+      <change afterPath="$PROJECT_DIR$/src/POO/Garrafa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/PrimeiroObjeto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VetorEArray/Exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VetorEArray/Exercicio10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
       <recent name="C:\Users\carlos.oliveira1\IdeaProjects\Repositorio-Aulas-Pressenciais\src\EstruturasDeRepeticao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio8">
+  <component name="RunManager" selected="Application.Garrafa">
     <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Metodos.Exercicio4" />
       <module name="exercicios5-13" />
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Metodos.Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Metodos.Exercicio2" />
+    <configuration name="Garrafa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.Garrafa" />
       <module name="exercicios5-13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Metodos.*" />
+          <option name="PATTERN" value="POO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Garrafa" />
         <item itemvalue="Application.Exercicio8" />
         <item itemvalue="Application.Exercicio4" />
         <item itemvalue="Application.Exercicio6" />
         <item itemvalue="Application.Metodos.Exercicio3" />
-        <item itemvalue="Application.Metodos.Exercicio2" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654306471555</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="subindo exercicios feito em sala 06/06 :memo: &#10;:white_check_mark:">
+      <created>1654564098271</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1654564098271</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,6 +298,7 @@
     <MESSAGE value="subindo exercicios feito em sala 18/05" />
     <MESSAGE value="subindo exercicios feito em sala 20/05 :memo: &#10;:white_check_mark:" />
     <MESSAGE value="subindo exercicios feito em sala 03/06 :memo: &#10;:white_check_mark:" />
-    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicios feito em sala 03/06 :memo: &#10;:white_check_mark:" />
+    <MESSAGE value="subindo exercicios feito em sala 06/06 :memo: &#10;:white_check_mark:" />
+    <option name="LAST_COMMIT_MESSAGE" value="subindo exercicios feito em sala 06/06 :memo: &#10;:white_check_mark:" />
   </component>
 </project>
